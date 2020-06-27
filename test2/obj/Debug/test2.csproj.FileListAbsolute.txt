@@ -1,0 +1,17 @@
+C:\Users\DNA\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\DNA\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\DNA\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.Form2.resources
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.Form3.resources
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.pdb
+C:\Users\DNA\source\repos\test2\test2\bin\Debug\test2.exe.manifest
+C:\Users\DNA\source\repos\test2\test2\bin\Debug\test2.application
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.TrustInfo.xml
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.exe.manifest
+C:\Users\DNA\source\repos\test2\test2\obj\Debug\test2.application
